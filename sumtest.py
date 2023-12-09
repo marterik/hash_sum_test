@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-#!/usr/bin/python3
-
 """Programm to compare sha256 sums"""
 
 import sys

@@ -24,6 +24,3 @@ print(is_sum.hexdigest() + "\n")
 
 if is_sum.hexdigest() == comp_sum:
     print("\nHashwerte sind identisch")
-
-
-#Das ist ein Test
